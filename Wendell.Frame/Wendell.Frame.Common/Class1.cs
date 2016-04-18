@@ -8,6 +8,6 @@ namespace Wendell.Frame.Common
 {
     public class Class1
     {
-        public string Id { get; set; }
+        public string Id { get; set;  }
     }
 }
